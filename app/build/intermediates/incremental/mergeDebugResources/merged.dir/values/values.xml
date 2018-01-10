@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MiGallery"><attr name="android:galleryItemBackground"/></declare-styleable>
+    <string name="app_name">Androideity-Gallery</string>
+    <string name="descripcion">Imagen Seleccionada</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_androideity_gallery">Androideity Gallery</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>
